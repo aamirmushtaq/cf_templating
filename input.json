@@ -1,0 +1,20 @@
+{
+  "account": "test-account",
+  "cloudfront": [
+    {
+      "id": "123jki"
+    },
+    {
+      "id": "456def",
+      "tags": [ "web", "reset" ]
+    },
+    {
+      "id": "789abc",
+      "tags": [ "javascript", "assets", "fonts" ]
+    },
+    {
+      "id": "102010kdk",
+      "tags": [ "reset", "frontpage"]
+    }
+  ]
+}

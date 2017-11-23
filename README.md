@@ -18,6 +18,7 @@ AWS CF operations using python and aws sdk
 The program expects a command line param which is the input json file based on which it will be doing the invalidations.
 A sample Input file is already committed to this repo for example. 
 execute the program like below :
-  $ python3.6 invalidate_cf_distribution.py https://raw.githubusercontent.com/aamirmushtaq/cf_templating/master/input.json
+    
+    python3.6 invalidate_cf_distribution.py https://raw.githubusercontent.com/aamirmushtaq/cf_templating/master/input.json
   
 Note: You can point it to any url and it should work. 
